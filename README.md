@@ -1,1 +1,1 @@
-# independent-study
+# Entry 1 -Intro/Deciding Topics
