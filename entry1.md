@@ -11,11 +11,20 @@ and C++. I love video games so it was a topic that I was immedialtly drawn to.
 
 What drew me to to Earsketch instead of Gosu was the website for Earsketch and how they teach you how to make music. Earsketch has a very in depth tutorial that teaches you
 everything you need to know about the program and how to use it and the program has its own site where you can use the program without having to use an external workspace. 
-The tutorial has vidoes that really explain everything that you need to know about the app which is something that alot of these topics don't have.
+The tutorial has vidoes that really explain everything that you need to know about the app which is something that alot of these topics don't have. I tested out the 
+program and started messing with it and it was really easy to use.
 <img src="http://circlcenter.org/wp-content/uploads/2015/12/cl16-gallery-walk-earsketch-a-steam-approach-to-broadening-participation-in-high-school-cs.png" style="width: 400px;" />
 This is the basic setup of Earsketch where everything is located in one place and its really easy to use.
 
 Gosu needs an external workspcae to use and although it has a tutorial, you have to read the documentation on github. Gosu only has one 3 minute video that shows the 
 basics of the program. Gosu can also be used on IOS which is something that not alot of programs can do. Many parts of the program are rough and unfinished including the
-gems that you install.
+gems that you install. I tried Gosu and it was difficult to experiment and make really simple games to play but it was something that remeinded me of the old games that I used to
+play on the computer when I was smaller.
+
+## Takeaways
+When picking a topic for an independent study these are some things you should think about.
+- Pick something you will enjoy doing
+- Make sure your topic isn't too hard but you are learning something from it
+- Try out everything and get experience with your topic
+- If it's too difficult don't be afraid to do soemthing else.
 
