@@ -13,5 +13,9 @@ What drew me to to Earsketch instead of Gosu was the website for Earsketch and h
 everything you need to know about the program and how to use it and the program has its own site where you can use the program without having to use an external workspace. 
 The tutorial has vidoes that really explain everything that you need to know about the app which is something that alot of these topics don't have.
 <img src="http://circlcenter.org/wp-content/uploads/2015/12/cl16-gallery-walk-earsketch-a-steam-approach-to-broadening-participation-in-high-school-cs.png" style="width: 400px;" />
-Gosu also has a tutorial but you have to go to the documentation on github and you have to install gems on a workspace to make it work.
+This is the basic setup of Earsketch where everything is located in one place and its really easy to use.
+
+Gosu needs an external workspcae to use and although it has a tutorial, you have to read the documentation on github. Gosu only has one 3 minute video that shows the 
+basics of the program. Gosu can also be used on IOS which is something that not alot of programs can do. Many parts of the program are rough and unfinished including the
+gems that you install.
 
