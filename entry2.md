@@ -42,7 +42,8 @@ fitMedia(TECHNO_SYNTHPLUCK_001, 1, 1, 9)
 #Finish Section
 finish()
 ```
-
+The **#** sign is how you comment the code in Earsketch. You can use comments to sort out your code into sections jsut like in the code above. In order to start the code you 
+ have to use this line of code ```json init(  ```
 ## Takeaways
 When learning about a topic there are some things you should do 
 - Google ALOT. If something doesn't make sense look it up.
