@@ -10,7 +10,7 @@ I am already signed in to my account. The Digital audio workspace or the **DAW**
 code editor is the place where you write your code to make the music. You can create multiple scripts in either Python or Javascript. I forgot what scripts
 were exactly so I had to google what it was. A Script in this case is a place where you the user can interact and change what music is being played
 and where you can control evry aspect of the music. The icon with the headphones on it is where you can get all of the music clips to use in your code.
-<img src ="https://sites.google.com/a/hstat.org/gabrielc0464sep/web-design/soundimage.png?attredirects=0" height = "20" width = "20">
+<img src ="https://sites.google.com/a/hstat.org/gabrielc0464sep/web-design/soundimage.png?attredirects=0" height = "200" width = "200">
 
 ## Takeaways
 When learning about a topic there are some things you should do 
