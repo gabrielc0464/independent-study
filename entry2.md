@@ -11,7 +11,9 @@ code editor is the place where you write your code to make the music. You can cr
 were exactly so I had to google what it was. A Script in this case is a place where you the user can interact and change what music is being played
 and where you can control evry aspect of the music. The icon with the headphones on it is where you can get all of the music clips to use in your code.
 <img src ="https://sites.google.com/a/hstat.org/gabrielc0464sep/web-design/soundimage.png?attredirects=0" height = "450" width = "450">
-
+You can search up what exact music file you like or you can search by the type of instrument,genre or artist. The folder below that is where your scripts are. You can create 
+multiple scripts. Their is also a folder that lists all of the functions that you can use in the workspace. You can do alot in Earsketch but this is just basics of the 
+website
 ## Takeaways
 When learning about a topic there are some things you should do 
 - Google ALOT. If something doesn't make sense look it up.
