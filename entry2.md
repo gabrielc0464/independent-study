@@ -18,7 +18,7 @@ You can search up what exact music file you like or you can search by the type o
 multiple scripts. Their is also a folder that lists all of the functions that you can use in the workspace. You can do alot in Earsketch but this is just basics of the 
 website.
 ## Basic code 
-This is th basic code for Earsketch.
+This is the basic code for Earsketch.
 ```json
 # python code
 #
