@@ -42,8 +42,10 @@ fitMedia(TECHNO_SYNTHPLUCK_001, 1, 1, 9)
 #Finish Section
 finish()
 ```
-The **#** sign is how you comment the code in Earsketch. You can use comments to sort out your code into sections jsut like in the code above. In order to start the code you 
- have to use this line of code ``` init()  ```
+ The **#** sign is how you comment the code in Earsketch. You can use comments to sort out your code into sections jsut like in the code above. In order to start the code you 
+ have to use this line of code ``` init()  ``` under it is where you set the tempo of the music. Tempo means the speed of the music. To select a music track to play in you have
+ to use the fitMedia fucntion. In the parenthesis you put the track name from the folder and then you type in the other 3 numbers for how long the music track will run.
+ 
 ## Takeaways
 When learning about a topic there are some things you should do 
 - Google ALOT. If something doesn't make sense look it up.
