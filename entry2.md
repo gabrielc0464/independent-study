@@ -7,9 +7,10 @@ The Earksketch website has a basic workspace that you do most of your work in. H
 
 This the basic setup of the Earsketch Workspace. In order to use earsketch and save your programs you need to create an account. You can see on the top right corner
 I am already signed in to my account. The Digital audio workspace or the **DAW** is the place where your music pops up and where you can hear the msuic you code. The
-code editor is the place where you write your code to make the music. You can create multiple scripts in either Python or Javascript. The icon with the headphones on it
-is where you select your music.
-<img src ="https://sites.google.com/a/hstat.org/gabrielc0464sep/web-design/soundimage.png?attredirects=0" style ="width:200px;">
+code editor is the place where you write your code to make the music. You can create multiple scripts in either Python or Javascript. I forgot what scripts
+were exactly so I had to google what it was. A Script in this case is a place where you the user can interact and change what music is being played
+and where you can control evry aspect of the music. The icon with the headphones on it is where you can get all of the music clips to use in your code.
+<img src ="https://sites.google.com/a/hstat.org/gabrielc0464sep/web-design/soundimage.png?attredirects=0" style ="width:200px; height:200px;">
 
 ## Takeaways
 When learning about a topic there are some things you should do 
