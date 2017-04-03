@@ -17,6 +17,32 @@ and where you can control evry aspect of the music. The icon with the headphones
 You can search up what exact music file you like or you can search by the type of instrument,genre or artist. The folder below that is where your scripts are. You can create 
 multiple scripts. Their is also a folder that lists all of the functions that you can use in the workspace. You can do alot in Earsketch but this is just basics of the 
 website.
+## Basic code 
+This is th basic code for Earsketch.
+```json
+# python code
+#
+# script_name: Intro Script
+#
+# author: The EarSketch Team
+#
+# description: This code adds one audio clip to the DAW
+#
+#
+#
+
+#Setup Section
+from earsketch import *
+init()
+setTempo(120)
+
+#Music Section
+fitMedia(TECHNO_SYNTHPLUCK_001, 1, 1, 9)
+
+#Finish Section
+finish()
+```
+
 ## Takeaways
 When learning about a topic there are some things you should do 
 - Google ALOT. If something doesn't make sense look it up.
