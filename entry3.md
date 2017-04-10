@@ -9,7 +9,7 @@ This is the basic python code for a for loop.
 ```for i in range(2)```
 In Python a for loop has 3 different sections.
 
-<img src = "https://earsketch.gatech.edu/earsketch2/curriculum/media/U1P2/Loop_Components_PY.png" height = "300" width = "300">
+<img src = "https://earsketch.gatech.edu/earsketch2/curriculum/media/U1P2/Loop_Components_PY.png">
 
 ## Takeaways
 When learning about a topic there are some things you should do 
