@@ -14,9 +14,16 @@ In Python a for loop has 3 different sections.
  The loop body is what the for loop is going to keep on repeating. The code taht you want to loop has to be indented under the for loop or it wont work.
  The loop counter is the name of a variable that has been created for the for loop to work. You can call that variable in other places of your code if you want that
  code in certain places. The range is another function which loops the code a certain number of time. In the example it shows ```range(1,9)``` which means the music will runs
- for 9 measures.
+ for 9 measures. At first I didn't understand what the range function actually did so I changed the numbers and saw that when I made the range *(1,8)* it would loop the code
+ for a shorter time then before.
+ 
+ Something thta didn't make sense to me was what the measure variable was doing inside the ```fitMedia()```. In order to understand the code you have to see what it looks
+ like in the DAW.
+ <img src = "https://sites.google.com/a/hstat.org/gabrielc0464sep11/_/rsrc/1491791467902/home/ice_screenshot_20170409-192259.png">
+ 
+ 
 
 ## Takeaways
-When learning about a topic there are some things you should do 
-- Google ALOT. If something doesn't make sense look it up.
-- Experiment with the different aspects of your topic. Have fun and play with it.
+- play around with the code to make sure it makes sense to you.
+- 
+
