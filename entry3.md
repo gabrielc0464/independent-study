@@ -20,7 +20,8 @@ In Python a for loop has 3 different sections.
  Something thta didn't make sense to me was what the measure variable was doing inside the ```fitMedia()```. In order to understand the code you have to see what it looks
  like in the DAW.
  <img src = "https://sites.google.com/a/hstat.org/gabrielc0464sep11/_/rsrc/1491791467902/home/ice_screenshot_20170409-192259.png">
-The measures are split in half for the first one. For the second one the measures are split into normal sections. The third one is split into 2 measures each
+
+The measures are split in half for the first one. For the second one the measures are split into normal sections. The third one is split into 2 measures each.
  
 
 ## Takeaways
