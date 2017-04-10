@@ -1,9 +1,14 @@
 # Earsketch Abstraction
 
-Abstraction in Earksketch is when you make different fucntions similar to ones like ```jsonfitMedia()``` and ```jsonsetEffect()  ```
-
-<img src ="https://b4e6e57a-a-cd86e757-s-sites.googlegroups.com/a/hstat.org/gabrielc0464sep/web-design/screenshot.png?attachauth=ANoY7cqJ3Gh28LCVDk6kRiXX4p4tzVjr-nEZ4s8TohcxOatD4yvluWQqmVEVJsWHfEacKPzewTyCBfzamazUM95oCZOPSQVNqwmwbMfbtq8NbcXfdWEctyGxAuRWzmZtBz-rfQkvLntOteUOSf0Af_Nw0QzqPw4O18WpxKjOYsKBf0nyzLR2TB6JNAISlDnSQLbHYtvn1tk0A2_Vhm8OGhQu_3Ru-OxjiB52RGnPy6pg8vvISFALGzU%3D&attredirects=0"    >
-
+Abstraction in Earksketch is when you make different functions similar to ones like ```fitMedia()``` and ```setEffect()```. You can use these
+custom functions to group together other lines of code to make a complicated process much easier and allows you to make more layered pieces
+of music in Earsketch. 
+To make custom fucntions there are many different ways to do it. One way is to make a for loop to runs your music over and over again at certain points.
+## For Loop 
+This is the basic python code for a for loop.
+```for i in range(2)```
+In Python a for loop has 3 different sections.
+<img src = "https://earsketch.gatech.edu/earsketch2/curriculum/media/U1P2/Loop_Components_PY.png>
 
 ## Takeaways
 When learning about a topic there are some things you should do 
