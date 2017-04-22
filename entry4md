@@ -3,7 +3,7 @@
 In the previous entry we learned what Abstraction is. A brief 
 explanation would be that abstraction in Earksketch is when you make different functions similar to ones like ```fitMedia()``` and ```setEffect()```.
 In the last entry I talked about a for loop which is a common concept in coding but in earsketch its used to loop tracks together to make it sound better.
-Another thing you can do with for loops is ad effects to the tracks like panning and volume gain. 
+Another thing you can do with for loops is add effects to the tracks like panning and volume gain. 
 
 #Panning
 <img src = "http://www.surfwhammys.com/Rainbow-Panning-Arc.png">
