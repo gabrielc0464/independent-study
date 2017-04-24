@@ -60,7 +60,7 @@ that you selected. Feel free to try out this code on [Earsketch](https://earsket
 
 ## Takeaways
 - Mess around with the beats to make sure that the track sounds right 
-- Listen to remix tracks on youtube and other websites and try to mimick the beat th is being played there.
+- Listen to remix tracks on youtube and other websites and try to mimick the beat that is being played there.
 - Look at other peoples code. On the earsketch website click on competition and you can look at other peoples code and see how they fucntion.
 It can give you inspiration for your own code.
 
