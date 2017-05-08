@@ -1,4 +1,4 @@
-# Earsketch Making a song in Earsketch
+#  Making a song in Earsketch
 
 The original plan for this entry was supposed to continue on to the curriculum on the website but I was getting bored just follwoing
 the tutorial so I decided to try and make a track. There are many things that go into making a song in any form but here are some 
