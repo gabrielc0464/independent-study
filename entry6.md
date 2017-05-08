@@ -24,7 +24,11 @@ easier to pick sounds from the smae genre. You can try and pick sounds from many
 You don't need to be a musical genious to know what sounds good in a song. Ask the people around you to listen to what you have made and ask them for suggestions.
 You will be surprised on how there advice improves your song.
 
-4.
+4. Just play around
+
+This might seem as an obvious one but it's kind of difficult. Don't try to make it your focus to make a great song from the get go. Take your time and try out evrything.
+Just have fun with it. You will find things that sound good together just by trying out different sounds together.
+
 
 ## Takeaways
 - Listen to other music to get inspired
