@@ -29,6 +29,34 @@ You will be surprised on how there advice improves your song.
 This might seem as an obvious one but it's kind of difficult. Don't try to make it your focus to make a great song from the get go. Take your time and try out evrything.
 Just have fun with it. You will find things that sound good together just by trying out different sounds together.
 
+Here is a part of the song that I made. Just copy and paste the code into earksketch to check it out.
+
+```
+
+#		python code
+#		script_name: Sneak Peek
+#
+#		author: Gabriel Charriez
+#		description: Part of my project
+#
+
+from earsketch import *
+
+init()
+setTempo(100)
+cymbal = Y14_CYMBAL_1  
+beat1 = "0++"
+
+for measure in range(5,25,4):
+    makeBeat(cymbal,4,measure,beat1);
+fitMedia(RD_RNB_808SOLODRUMS_5,2,9,25)
+fitMedia(YG_FUNK_ELECTRIC_PIANO_1,1,1,29);
+fitMedia(YG_FUNK_TAMBOURINE_2,3,13,25);
+
+
+finish()
+
+```
 
 ## Takeaways
 - Listen to other music to get inspired
