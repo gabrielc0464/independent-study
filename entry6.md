@@ -13,6 +13,7 @@ any idea. Make sure not to copy a song because thats just not right.
 
 In earksketch most instruments have a designated sound. Most instrument sounds have a certain genre included in the name. 
 Here's an example.
+
  <img src = "https://b4e6e57a-a-cd86e757-s-sites.googlegroups.com/a/hstat.org/gabrielc0464sep/home/omgpls.png?attachauth=ANoY7cofz5p6SR5uzOjgjdaUxodiHKRIW_fz1vKx467FGssHrlVQdU9VWSPH5MgPWgAHoEkf8nOKiStcQNpQYEMytkVBF20LRxaIzVo93FnQpxIk_j570zyCXaXl_mNJ-vqTbaDzcoBxgfUTlNR_rJ8zU9dWJabxvqAB-gxgIfAhsv2CWAMHjSQ8nNowH02Od6RQtE7G_r7rARA1QRzjeDC0yio-8W-jPg%3D%3D&attredirects=0">
 
 
