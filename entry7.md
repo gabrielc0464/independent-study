@@ -8,3 +8,7 @@ each one is a little confusing. This is a simplified version of that.
 
 BANDPASS is an effect that filters the frequencies of a track. It can make that track sound like it's coming out of a megaphone or
 a small speaker or a telephone. Here is the link to what BANDPASS sounds [like](https://clyp.it/x0clzrbz) 
+```
+setEffect(1, BANDPASS, BANDPASS_FREQ, 200)
+```
+This is the basic code for BANDPASS. The default number is 200 but the range is from 20 to 20,000.
