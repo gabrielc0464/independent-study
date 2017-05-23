@@ -7,3 +7,4 @@ Earsketch Independent Study
 ## [Entry 5 - Earketch makeBeat](entry5.md)
 ## [Entry 6 - Making a song in Earsketch](entry6.md)
 ## [Entry 7 - Effects](entry7.md)
+  
