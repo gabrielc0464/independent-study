@@ -1,113 +1,78 @@
-# Effects in Earsketch
+# Entry - 8 Finalizing Project
 
-In Earsketch there are many effects that can be used in your code to make your music sound a certain way. 
-Earsketch has a section where they explain every effect and what it does but I found that the way that each effect is described
-are a little confusing and some of the effects aren't that useful. This is a simplified version of that.
-
-## BANDPASS
-
-BANDPASS is an effect that filters the frequencies of a track. It can make that track sound like it's coming out of a megaphone or
-a small speaker or a telephone. Here is the link to what BANDPASS sounds [like](https://clyp.it/x0clzrbz) 
+For my final project I made a music track that uses things that I learned throughout the past 7 weeks. I wanted to incorporate as many
+things as possible in my project but I didn't want do overdo it and dectract from my project. The biggest thing that I wanted to get
+out of this project is to make music that sounds GOOD. Here is the code to my project
 ```
-setEffect(1, BANDPASS, BANDPASS_FREQ, 200)
-```
-This is the basic code for BANDPASS. The default number is 200 but the range is from 20 to 20,000.
+from earsketch import *
 
-## CHORUS
+init()
+setTempo(100)
+cymbal = Y14_CYMBAL_1  
+beat1 = "0++"
 
-CHORUS is an effect that creates copies of the orginal track and makes copies of it that differ slightly in pitch and sound which is  then mixed back
-with the original track making it sound like a chorus of that same track. Click [here](https://clyp.it/z2hzmedc) to hear the CHORUS.
-```
-setEffect(1, CHORUS, CHORUS_LENGTH, 53.0)
-```
-Basic code for CHORUS. This determines how long the chorus effect lasts for. Range from 1 to 250.
+for measure in range(5,25,4):
+    makeBeat(cymbal,4,measure,beat1);
 
-```
-`setEffect(1, CHORUS, CHORUS_NUMVOICES, 4.0) `
-```
-Determines the number of copies that are made of the track. Range from 1 to 8.
+fitMedia(RD_RNB_808SOLODRUMS_5,2,9,25)
+fitMedia(YG_FUNK_ELECTRIC_PIANO_1,1,1,29);
+fitMedia(YG_FUNK_TAMBOURINE_2,3,13,25);
+fitMedia(YG_FUNK_HIHAT_1,5,13,25);
+fitMedia(HIPHOP_FUNKBEAT_004,6,13,25)
+fitMedia(YG_RNB_FUNK_PERC_2,8,5,25);
+fitMedia(HIPHOP_FUNKBEAT_004,13,33,37) 
+#setEffect(13, PITCHSHIFT, PITCHSHIFT_SHIFT, 2.0)
+fitMedia(YG_FUNK_BRASS_4,17,29,37) 
+fitMedia(YG_FUNK_GUITAR_1,18,33,37)
+#setEffect(17, PITCHSHIFT, PITCHSHIFT_SHIFT, 12.0)
+beat4 = "0+++++++0+++++++"
+snap = YG_RNB_FUNK_SNAP_1
+for measure in range(29,37,1):
+    makeBeat(snap,16,measure,beat4);
 
-## COMPRESSSOR
 
-COMPRESSSOR is an effect that decreases that loudest sounds of a track while increasing the lowest sounds of the track.
-Click [here](https://clyp.it/0odk4nxt) to hear the COMPRESSSOR.
 
-```
-setEffect(1, COMPRESSOR, COMPRESSOR_THRESHOLD, -4.0)
-```
-determines the volume level that the trakc has to reach for the effect to reduce the volume. Range from -30 to 0.
 
-## DELAY
+beat2 = "0++++++++++++++++++++++++++"
+guitar = YG_FUNK_FUNK_GUITAR_1
 
-DELAY is an effect that creates an echo sound of the original track. Similar to the CHORUS effect.
-Click [here](https://clyp.it/2u3iwyjr) to hear the DELAY.
+for measure in range(5,25,2):
+    makeBeat(guitar,9,measure,beat2);
 
-```
-setEffect(1, DELAY, DELAY_TIME, 1200.0)
-```
-Basic code for the DELAY effect which determines how much the sound is delayed (in Miliseconds). Range from 0 to 4000.
 
-## DISTORTION
+fitMedia(guitar,10,1,5)
 
-DISTORTION is an effect that creates a dirty or fuzzier version of the original sound.
-Click [here](https://clyp.it/ofu3kymc) to hear the DISTORTION.
 
-```
-setEffect(1, DISTORTION, DISTO_GAIN, 25.0)
-```
-Basic code for the DISTORTION effect that determines the amount of Distortion. Range from 0 to 50.
+beat3 = "0+++++++0+++++++"
+cymbal2 = YG_FUNK_CYMBALS_1
+for measure2 in range(28,29,2):
+   makeBeat(cymbal2,15,measure2,beat3);
 
-## PAN
 
-PAN is an effect that effects the audio betweem the left and right side of your headphones.
-Click [here](https://clyp.it/jvtxvj4i) to hear the PAN.
+finish();
+
+
+
+finish()
 
 ```
-setEffect(1, PAN, LEFT_RIGHT, -50.0)
-```
-Basic code for the PAN effect which determines the location of the sound. Range from -100 to 100.
 
-## PITCHSHIFT 
+Some lines of code have a hashtag at the beggining which means that its code that I commented out. I never took it out of my project just
+in case I might go back to it eventually. I also think it represented what I was thinking at the time and its sort of like a sign of my progress
+in my project.
 
-PITCHSHIFT is an effect that lowers and raises the sound by a pitch interval.
-Click [here](https://clyp.it/4x151mm5) to hear the PITCHSHIFT.
+# Takeways
 
-```
-setEffect(1, PITCHSHIFT, PITCHSHIFT_SHIFT, 4.0)
-```
-Basic code for the PITCHSHIFT effect that specifies how much the pitch should be adjusted. Range from -12 t0 12.
 
-## TREMOLO 
+1. Make sure YOU are proud of what you made. Having people's approval is one thing but if you yourself aren't happy with what you made then
+was it even worth making?
+2. Have fun. Thia was probably my favorite unit in all of SEP and I know this because I worked on it alot at home. I usually don't work on
+software projects at home alot and when I do I am jus tdoing it because I have a due date but in this project I just had alot of fun making the song.
+It was always on my mind.
+3. Have people to talk to. In the beginning of making this project I didn't know if what i was making sounded good. I eventually showed justin my project
+and he liked it and from there on I started to regularly ask him for input on my rpject and it drastically improved my project as a whole.
 
-TREMOLO is an effect that quickly changes the volume back and forth to create a wobble effect.
-Click [here](https://clyp.it/2pjgaak4) to hear the TREMOLO.
 
-```
-setEffect(1, TREMOLO, TREMOLO_FREQ, 10.0)
-```
-Basic code for the TREMOLO effect which determins how fast the volume is changed. Range from 0 to 100.
 
-```
-setEffect(1, TREMOLO, TREMOLO_AMOUNT, 10.0)
-```
-This code determines how much the volume is changed. Range from -60 to 0.
+# Entry 9 
 
-## VOLUME
-
-VOLUME is an effect that (obviously) changes the volume of the sound.
-Click [here](https://clyp.it/qukbucff) to hear the volume.
-
-```
-setEffect(1, VOLUME, GAIN, -5.0)
-```
-Basic code for the Volume effect which increases or decreases the volume. Range from -60 to 12.
-
-# Takeaways
-
-- Not everything is important. This is a takeaway for life in general but especially for reading instructions or tutorials. Always try to 
-grasp the most important parts and not every little thing that is given to you. Its very useful for saving time.
-
-- If something doesn't make sense to you go online and ask people or just ask people around you. Maybe you just need a different perspective 
-to understand something
-
-- Make sure to double check your syntax in Earsketch and coding in general. Usually errors come from that one missing comma or semi-colon.
