@@ -8,3 +8,4 @@ Earsketch Independent Study
 ## [Entry 6 - Making a song in Earsketch](entry6.md)
 ## [Entry 7 - Effects](entry7.md)
 ## [Entry 8 Finalizing Projects](lastentry.md)
+## [Link to Presentation]()
