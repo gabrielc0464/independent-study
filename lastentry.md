@@ -70,9 +70,7 @@ was it even worth making?
 software projects at home alot and when I do I am jus tdoing it because I have a due date but in this project I just had alot of fun making the song.
 It was always on my mind.
 3. Have people to talk to. In the beginning of making this project I didn't know if what i was making sounded good. I eventually showed justin my project
-and he liked it and from there on I started to regularly ask him for input on my rpject and it drastically improved my project as a whole.
+and he liked it and from there on I started to regularly ask him for input on my project and it drastically improved my progress on it.
 
 
-
-# Entry 9 
 
